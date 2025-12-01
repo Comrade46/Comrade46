@@ -65,7 +65,8 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/9JmB3mN.gif" width="300" />
+  <img src="[https://i.imgur.com/9JmB3mN.gif](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif)" width="300" />
+
 </p>
 
 <p align="center" style="color:#00eaff;">
