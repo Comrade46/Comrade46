@@ -18,22 +18,6 @@
 
 ---
 
-### 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kaustubh-khadge-6a32a4241" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:kaustubhak46@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="mailto:kaustubhak46@gmail.com?subject=Let's%20Connect" target="_blank">
-    <img src="https://img.shields.io/badge/Contact_Me-0e75b6?style=for-the-badge&logo=maildotru&logoColor=white"/>
-  </a>
-</p>
-
----
-
 ### 💼 Current Role
 
 > 🐍 **Python Developer — Stimita Motion Control** · *August 2026 – Present*
@@ -175,6 +159,22 @@
 - Developed and presented "Ultrasonic Blind Walking Stick" — an innovative embedded systems project
 - Built 5+ software projects using Java and Python
 - Participated in NSS Special Camp and NCC Training Camps — discipline, teamwork, and leadership
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaustubh-khadge-6a32a4241" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kaustubhak46@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="mailto:kaustubhak46@gmail.com?subject=Let's%20Connect" target="_blank">
+    <img src="https://img.shields.io/badge/Contact_Me-0e75b6?style=for-the-badge&logo=maildotru&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
