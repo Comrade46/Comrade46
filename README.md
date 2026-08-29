@@ -7,12 +7,29 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kaustubh-khadge-6a32a4241"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:kaustubhak46@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:kaustubhak46@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://drive.google.com/drive/folders/1XDytKkDOBq9t5MdjBBpPMn_RprLsLzIw?usp=sharing"><img src="https://img.shields.io/badge/Certificates-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/📍_Pune,_Maharashtra-34A853?style=for-the-badge"/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Comrade46&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaustubh-khadge-6a32a4241" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kaustubhak46@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="mailto:kaustubhak46@gmail.com?subject=Let's%20Connect" target="_blank">
+    <img src="https://img.shields.io/badge/Contact_Me-0e75b6?style=for-the-badge&logo=maildotru&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -35,7 +52,7 @@
 - 🔌 Background in embedded systems — comfortable bridging software with hardware/sensor workflows
 - 🌱 Currently exploring new technologies and strengthening automation testing skills
 - 📫 Reach me at **kaustubhak46@gmail.com**
-- 🌍 Based in Amravati, Maharashtra, India
+- 🌍 Based in Pune, Maharashtra, India
 
 ---
 
@@ -107,8 +124,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Comrade46&theme=tokyo-night&hide_border=true" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Comrade46&theme=react-dark&hide_border=true&area=true" alt="activity graph"/>
 </p>
+
+> 💡 If the activity graph above doesn't render, it's usually because this third-party service is temporarily down — refresh the page after a minute, or remove this block if it persists.
 
 ---
 
